@@ -10,6 +10,13 @@ The project demonstrates SQL querying, KPI development, dashboard design, DAX ca
 
 ---
 
+## Project Objectives
+
+- Identify the factors driving delivery delays.
+- Assess restaurant and delivery partner operational performance.
+- Investigate customer satisfaction and cancellation behaviour.
+- Analyse demand patterns across hours, days, and festival/weekend periods.
+
 ## Tools Used
 
 - SQL Server
