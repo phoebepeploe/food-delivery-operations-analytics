@@ -45,22 +45,25 @@ Analysis of hourly demand, daily demand patterns, and festival/weekend order beh
 
 ---
 
-## Dashboard Screenshots
-
 ### Executive Overview
-![Executive Overview](executive-overview.png)
+
+![Executive Overview](dashboard-screenshots/executive-overview.png)
 
 ### Delivery Performance Analysis
-![Delivery Performance](delivery-performance-analysis.png)
+
+![Delivery Performance](dashboard-screenshots/delivery-performance-analysis.png)
 
 ### Operational Performance Analysis
-![Operational Performance](operational-performance-analysis.png)
+
+![Operational Performance](dashboard-screenshots/operational-performance-analysis.png)
 
 ### Customer Experience Analysis
-![Customer Experience](customer-experience-analysis.png)
+
+![Customer Experience](dashboard-screenshots/customer-experience-analysis.png)
 
 ### Demand Analysis
-![Demand Analysis](demand-analysis.png)
+
+![Demand Analysis](dashboard-screenshots/demand-analysis.png)
 
 ---
 
