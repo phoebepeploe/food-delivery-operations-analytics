@@ -4,7 +4,7 @@
 
 This project analyses food delivery operations using SQL Server and Power BI.
 
-The objective was to identify operational factors affecting delivery performance, operational performance, customer satisfaction, cancellations, and demand patterns.
+The objective was to identify operational factors affecting delivery performance, operational efficiency, customer satisfaction, cancellations, and demand patterns.
 
 The project demonstrates SQL querying, KPI development, dashboard design, DAX calculations, and business insight generation.
 
