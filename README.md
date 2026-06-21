@@ -36,9 +36,24 @@ Evaluation of customer ratings, driver ratings, cancellations, and customer sati
 ### 5. Demand Analysis
 Analysis of hourly demand, daily demand patterns, and festival/weekend order behaviour.
 
+---
+
 ## Dashboard Screenshots
 
-Screenshots of the completed Power BI dashboard are included in this repository.
+### Executive Overview
+![Executive Overview](executive-overview.png)
+
+### Delivery Performance Analysis
+![Delivery Performance](delivery-performance-analysis.png)
+
+### Operational Performance Analysis
+![Operational Performance](operational-performance-analysis.png)
+
+### Customer Experience Analysis
+![Customer Experience](customer-experience-analysis.png)
+
+### Demand Analysis
+![Demand Analysis](demand-analysis.png)
 
 ---
 
