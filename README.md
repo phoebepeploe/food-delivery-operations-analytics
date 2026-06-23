@@ -26,6 +26,61 @@ The project demonstrates SQL querying, KPI development, dashboard design, DAX ca
 
 ---
 
+## Project Workflow
+
+### 1. Data Preparation
+
+- Imported the dataset into SQL Server.
+- Data cleaning
+- Checked for missing values and data quality issues.
+- Identified null values in:
+  - Customer Rating
+  - Delivery Partner Rating
+  - Tip Amount
+
+### 2. Exploratory Data Analysis
+
+Analysed relationships between:
+
+- Delivery time and various factors (traffic, distance, preparation time, weather severity, city tier, order hour & day)
+- Preparation time and order complexity & number of orders
+- Customer ratings and operational performance
+- Order demand by hour and day
+
+### 3. Dashboard Development
+
+Created an interactive Power BI dashboard to visualise:
+
+- Operational performance metrics
+- Delivery efficiency trends
+- Customer experience indicators
+- Demand patterns
+
+---
+
+## Key Business Questions
+
+### Delivery Performance
+
+- What factors have the greatest impact on delivery times?
+
+### Restaurant Operations
+
+- Does order volume impact preparation times?
+- Do larger orders require significantly longer preparation?
+
+### Customer Experience
+
+- Are lower customer ratings associated with slower deliveries?
+- Do cancellations influence customer satisfaction?
+
+### Demand Patterns
+
+- When are peak ordering periods?
+- Which days generate the highest demand?
+  
+---
+
 ## Dashboard Pages
 
 ### 1. Executive Overview
@@ -78,6 +133,21 @@ Analysis of hourly demand, daily demand patterns, and festival/weekend order beh
 - Monday recorded the highest order volume.
 - Peak demand occurred at 00:00, with secondary peaks at 10:00 and 18:00.
 - Festival and weekend periods accounted for approximately 20.6% of all orders.
+
+---
+
+## Conclusion & Recommendations
+
+The analysis identified traffic conditions, delivery distance, and preparation time as the primary drivers of delivery performance.
+
+Operational improvements should focus on:
+
+- Optimising driver allocation during high-traffic periods.
+- Improving route planning for longer-distance deliveries.
+- Reducing preparation bottlenecks within restaurant operations.
+- Increasing delivery capacity during peak demand periods.
+
+Although customer ratings were expected to be heavily influenced by delivery speed, the data suggests additional factors may contribute to customer satisfaction and should be explored in future analysis.
 
 ---
 
